@@ -14,4 +14,4 @@ TravelTide stores its data in a PostgreSQL database with four main tables:
 
 The task is to apply data analysis to validate the perks and assign customers to segments according to what we think their favourite perk is. Then provide recommendations to the TravelTide stakeholders.
 
-Link to Dashboard https://public.tableau.com/views/Customers_Segmentation/fuzzy-perks?:language=en-US&:display_count=n&:origin=viz_share_link
+[Link to Dashboard - Customer Segmentation Analysis] (https://public.tableau.com/views/Customers_Segmentation/fuzzy-perks?:language=en-US&:display_count=n&:origin=viz_share_link)
