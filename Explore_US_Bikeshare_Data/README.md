@@ -8,7 +8,7 @@ These datasets contain randomly selected data for the first six months of 2017 o
 
 The files for Chicago and New York City have two additional columns: Gender, Birth Year.
 
-Statistics computed to answer these questions:
+### Statistics computed to answer these questions <h3>
 #1 Popular times of travel (i.e., statistics based on start time)
    What is the most popular month?
    What is the most popular day of week?
