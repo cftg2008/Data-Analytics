@@ -1,16 +1,16 @@
 ## Capstone Project - Customer Churn Analysis <h2>
 
 ## Overview <h3>
-- This project is based on a bank's credit card data. The bank is concerned that many customers are leaving its card services.
+- This project is based on a bank's credit card data. And the bank's management is concerned that many customers are leaving its card services.
 - The bank would like you to analyze the data for them, so as to figure out why customers are leaving, and to come up with recommendations for how the bank can alleviate the outflow. Lastly, the bank would like to implement these measures so that their customers are happy to stay put.   
 
 
 ## Technologies Used <h3>
-This project is to demonstrate many of the skills learned during the Masterschool Data Analytics program:
+This project is to demonstrate many of the skills learned in the Masterschool Data Analytics program:
 - PostgreSQL
 - Tableau
 - Python
-- Deep-dive analysis
+- Deep-dive Analysis
 
 
 ## Datasets <h3>
