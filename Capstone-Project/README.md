@@ -39,7 +39,7 @@ This dashboard helps the bank to identify below trends and patterns through grap
 - Churn Rate by Number of Products per Customer
 - Churn Rate by Age Groups  
 - Churn Rate by Income Category and Education Level
-
+[Link to Dashboard - Customer Churn Analysis](https://public.tableau.com/views/proj2_16761751070630/CustomerChurnAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Deep Dive Analysis <h3>
 By applying various features of Python, this step executes the following tasks to determine if conclusive answers could be uncovered:
