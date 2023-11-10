@@ -50,6 +50,5 @@ By applying various features of Python, this step executes the following tasks t
 - Raising Data Questions
 - Data Enrichment 
 
-
 ## Recommendations
 Per insights gathered in early analysis, a written description on specific steps the bank's management can take to lessen the customer churn.
