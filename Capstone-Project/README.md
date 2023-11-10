@@ -19,7 +19,7 @@ Three datasets are provided (full list of attributes are embedded in the Jupyter
 - Basic_client_info.csv: this file contains some basic client info per each client.
 - Enriched_churn_data.csv: this file contains some enriched data about each client.
 - A full ERD to depict the relationships among attributes and datasets.
-
+[Link to ERD - Data Diagram](https://dbdiagram.io/d/Customer-Churn-ERD-638cdd8abae3ed7c45449eed)
 
 ## SQL Analysis <h3>
 Based on the SQL analysis results, the bank intends to create a dedicated campaign and target these specific clients moving forward. This step helps the bank to find these clients. Specifically, the bank needs to get answers from the following questions.
