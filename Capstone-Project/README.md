@@ -1,10 +1,8 @@
-# Masterschool Data Analysis Program
-## Capstone Project - Customer Churn Analysis
+## Capstone Project - Customer Churn Analysis <h2>
 > This project is to demonstrate many of the skills learned during the Data Analysis program:
 - SQL
 - Tableau
 - Deep-dive Analysis
-
 
 ## Overview
 - This project is based on a bank's credit card data. The bank is concerned that many customers are leaving its card services.
