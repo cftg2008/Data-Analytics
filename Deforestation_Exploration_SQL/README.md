@@ -1,4 +1,4 @@
-# Deforestation Exlporation <h2>
+# Deforestation Exploration <h2>
 
 ### Overview <h3>
 
