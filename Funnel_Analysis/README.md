@@ -1,4 +1,4 @@
-## Funnel_Analysis <h2>
+## Funnel Analysis <h2>
 
 ### Overview <h3>
 In this project, we are going to analyze the customer funnel of Metrocar, a ride-sharing app, to determine areas for enhancement and optimization. Through funnel analysis, we will provide recommendations based on the insights derived from the data.
