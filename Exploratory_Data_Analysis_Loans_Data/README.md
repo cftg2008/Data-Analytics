@@ -2,12 +2,9 @@
 
 ### Overview <h3>
 
-In the project, we are going to analyze the customers of TravelTide in their preferences of perks proposed by our Marketing team. Additionally, we will assign each customer in the cohort with the most likely perk favoured by the customer.
+In this project, we are going to approach the ProsperLoanData dataset with Exploratory Data Analysi (EDA) techniques. The dataset contains loans and related information, including loan amount, interest rate, income range, and other details. After data wrangling, a subset of the dataset was created and included as part of the final submission. 
 
-This dataset contains 113,937 loans and related information, including loan amount, interest rate, income range, and other details etc. 
-After data wrangling, a subset of the dataset was created and included as part of the zipfiles for final submission. 
-
-## Summary of Findings
+## Summary of Findings <h3>
 
 In the exploration step, we found there were varying degree of impacts on the outcomes of a loan by different features we were interested in.
 
