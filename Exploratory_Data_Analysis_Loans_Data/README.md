@@ -1,11 +1,11 @@
-# ProsperLoanData Exploration
+## ProsperLoanData Exploration <h2>
 
+### Overview <h3>
 
-## Dataset
+In the project, we are going to analyze the customers of TravelTide in their preferences of perks proposed by our Marketing team. Additionally, we will assign each customer in the cohort with the most likely perk favoured by the customer.
 
-This dataset contains 113,937 loans and related information, including loan amount, interest rate, income range, and other details etc. The data dictionary for this dataset is in: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
+This dataset contains 113,937 loans and related information, including loan amount, interest rate, income range, and other details etc. 
 After data wrangling, a subset of the dataset was created and included as part of the zipfiles for final submission. 
-
 
 ## Summary of Findings
 
