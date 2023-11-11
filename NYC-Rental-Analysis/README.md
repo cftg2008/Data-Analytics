@@ -1,4 +1,4 @@
-## NYC-Rental-Analysis <h2>
+## New York City Rental Analysis <h2>
 
 ### Overview <h3>
 
