@@ -1,4 +1,4 @@
-# MS-NYC-Rental-Analysis <h2>
+## NYC-Rental-Analysis <h2>
 
 ### Overview <h3>
 
